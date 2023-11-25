@@ -10,11 +10,15 @@ The latest version of RSAUtil is [![Maven Central](https://img.shields.io/maven-
 
 ## Maven Dependency
 
-To use RSAUtil in your Maven project, include the following dependency in your `pom.xml`:
+To use RSAUtil in your Maven project, include the below mentioned dependency in your `pom.xml`:
 
 ```xml
 <dependency>
     <groupId>io.github.suryakantaacharya</groupId>
     <artifactId>RSAUtil</artifactId>
     <version>LATEST_VERSION</version>
-</dependency>
+</dependency> ```
+
+
+
+
